@@ -2,6 +2,12 @@
 
 Citrea AI Agent is a revolutionary platform that combines drag-and-drop smart contract development with AI assistance, making Web3 development accessible to everyone on the Citrea blockchain.
 
+## Demo_Video
+https://youtu.be/ptJOmg_vpYk
+
+## iExec Documentation FeedBack
+https://docs.google.com/document/d/1nDS2cSYlzPGsADNm1A4TDZHR6s8JET6PGGng4WTU1V0/edit?usp=sharing
+
 ## Overview
 
 With Citrea-AI-Agent, we've created an intuitive platform that features:
